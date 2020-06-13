@@ -1,7 +1,7 @@
 # Add your variables here
-x = 4
-y = 2
-sum = x + y
-difference = x - y
-product = x * y
-quotient = x / y
+first_number = 4
+second_number = 2
+sum = first_number + second_number
+difference = first_number - second_number
+product = first_number * second_number
+quotient = first_number / second_number
